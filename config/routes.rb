@@ -6,6 +6,9 @@ Rails.application.routes.draw do
   namespace :api do
     get "/pages" => "pages#index"
     get "/names" => "names#index"
+<<<<<<< HEAD
 
+=======
+>>>>>>> d86706fda1c43066a79f23b4ae48b4bdcdf1fb54
   end
 end
