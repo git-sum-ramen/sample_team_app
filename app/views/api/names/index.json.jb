@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 {
   message: @message
 }
+=======
+
+
+{message: "it's weird that the names are not here, eddie"}
+
+>>>>>>> 77da8fea2a94f724f7d1f85fac0669edf01a5032
